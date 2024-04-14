@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nitya+Kumar+Singh!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from INDIA ![image](https://github.com/nityak1996/nityak1996/assets/126570969/772fefef-e65a-47d7-82d0-ca2ae022f6be)
+<h3 align="center">A passionate software developer from INDIA
  </h3>
 
 <br/>
